@@ -76,28 +76,51 @@ recent_reviews_count - количество недавних отзывов на
 
 ### Итоговый датасет
 link - ссылка на игру в steam
+
 name - название игры
+
 release_date - дата выпуска игры
+
 developers - список разработчиков игры
+
 genre - список жанров игры
+
 price - цена игры
+
 discount - скидка на платформе steam
+
 dlc - список дополнений к игре
+
 tags - теги к игре
+
 rating - рейтинг игре на Steam 
+
 reviews_count - количество отзывов на Steam recent_rating - недавний рейтинг Steam
+
 recent_reviews_count - количество недавних отзывов на Steam
+
 rating — средний рейтинг игры на RAWG 
+
 reviews_count — количество отзывов на RAWG
+
 playtime — среднее время прохождения игры в часах
+
 platforms — список платформ на которых доступна игра 
+
 stores — список магазинов где продаётся игра 
+
 esrb_rating — возрастной рейтинг игры
+
 id_games — уникальный идентификатор игры в базе RAWG
+
 metacritic — оценка игры на Metacritic (от 0 до 100)
+
 achievements_count — количество достижений игры 
+
 a_count — количество DLC, GOTY изданий и дополнений 
+
 series_count — количество игр в той же серии 
+
 dev_team_count — количество людей в команде разработчиков
 
 **Всего строк:** 9623  
